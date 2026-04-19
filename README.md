@@ -57,5 +57,3 @@ Use BERT for better accuracy
 Aspect-based sentiment analysis
 Real-time sentiment tracking
 👤 Pavithra S
-
-Your Name
